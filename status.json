@@ -1,0 +1,51 @@
+{
+  "language": "bg",
+  "built": "2026-09-23",
+  "candidates": 279165,
+  "shipped": 75888,
+  "ships": "pending",
+  "decided": null,
+  "why": null,
+  "license": null,
+  "conforms": true,
+  "families": 5,
+  "checkable": 4,
+  "knee": 4,
+  "steps": [
+    {
+      "families": 1,
+      "added": "wikimedia",
+      "kept": 0,
+      "share": 0,
+      "gained": 0
+    },
+    {
+      "families": 2,
+      "added": "internetarchive",
+      "kept": 0,
+      "share": 0,
+      "gained": 0
+    },
+    {
+      "families": 3,
+      "added": "leipzig",
+      "kept": 73235,
+      "share": 0.262336,
+      "gained": 73235
+    },
+    {
+      "families": 4,
+      "added": "tatoeba",
+      "kept": 74693,
+      "share": 0.267559,
+      "gained": 1458
+    },
+    {
+      "families": 5,
+      "added": "gutenberg",
+      "kept": 75888,
+      "share": 0.271839,
+      "gained": 1195
+    }
+  ]
+}
