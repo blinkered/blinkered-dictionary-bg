@@ -136,6 +136,8 @@ export const SOURCES = ALL.filter((source) => {
  */
 export const DOMAINS = [
   'bnr.bg', 'mediapool.bg', 'segabg.com', '24chasa.bg', 'nova.bg',
+  'dnes.bg', 'novini.bg', 'fakti.bg', 'bta.bg', 'actualno.com',
+  'pik.bg', 'dir.bg', 'investor.bg', 'economic.bg',
 ]
 
 export const HARVEST = existsSync(new URL('searched.tsv', import.meta.url).pathname)

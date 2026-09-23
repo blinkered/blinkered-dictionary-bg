@@ -2,14 +2,14 @@
   "language": "bg",
   "built": "2026-09-23",
   "candidates": 279165,
-  "shipped": 75888,
+  "shipped": 107898,
   "ships": "pending",
   "decided": null,
   "why": null,
   "license": null,
   "conforms": true,
-  "families": 5,
-  "checkable": 4,
+  "families": 19,
+  "checkable": 18,
   "knee": 4,
   "steps": [
     {
@@ -29,23 +29,121 @@
     {
       "families": 3,
       "added": "leipzig",
-      "kept": 73235,
-      "share": 0.262336,
-      "gained": 73235
+      "kept": 96752,
+      "share": 0.346576,
+      "gained": 96752
     },
     {
       "families": 4,
-      "added": "tatoeba",
-      "kept": 74693,
-      "share": 0.267559,
-      "gained": 1458
+      "added": "fakti.bg",
+      "kept": 100422,
+      "share": 0.359723,
+      "gained": 3670
     },
     {
       "families": 5,
+      "added": "segabg.com",
+      "kept": 101679,
+      "share": 0.364225,
+      "gained": 1257
+    },
+    {
+      "families": 6,
       "added": "gutenberg",
-      "kept": 75888,
-      "share": 0.271839,
-      "gained": 1195
+      "kept": 102799,
+      "share": 0.368237,
+      "gained": 1120
+    },
+    {
+      "families": 7,
+      "added": "dnes.bg",
+      "kept": 103821,
+      "share": 0.371898,
+      "gained": 1022
+    },
+    {
+      "families": 8,
+      "added": "actualno.com",
+      "kept": 104767,
+      "share": 0.375287,
+      "gained": 946
+    },
+    {
+      "families": 9,
+      "added": "tatoeba",
+      "kept": 105520,
+      "share": 0.377984,
+      "gained": 753
+    },
+    {
+      "families": 10,
+      "added": "bnr.bg",
+      "kept": 106223,
+      "share": 0.380503,
+      "gained": 703
+    },
+    {
+      "families": 11,
+      "added": "pik.bg",
+      "kept": 106761,
+      "share": 0.38243,
+      "gained": 538
+    },
+    {
+      "families": 12,
+      "added": "economic.bg",
+      "kept": 107134,
+      "share": 0.383766,
+      "gained": 373
+    },
+    {
+      "families": 13,
+      "added": "bta.bg",
+      "kept": 107350,
+      "share": 0.38454,
+      "gained": 216
+    },
+    {
+      "families": 14,
+      "added": "24chasa.bg",
+      "kept": 107524,
+      "share": 0.385163,
+      "gained": 174
+    },
+    {
+      "families": 15,
+      "added": "nova.bg",
+      "kept": 107682,
+      "share": 0.385729,
+      "gained": 158
+    },
+    {
+      "families": 16,
+      "added": "dir.bg",
+      "kept": 107771,
+      "share": 0.386048,
+      "gained": 89
+    },
+    {
+      "families": 17,
+      "added": "investor.bg",
+      "kept": 107856,
+      "share": 0.386352,
+      "gained": 85
+    },
+    {
+      "families": 18,
+      "added": "mediapool.bg",
+      "kept": 107896,
+      "share": 0.386495,
+      "gained": 40
+    },
+    {
+      "families": 19,
+      "added": "novini.bg",
+      "kept": 107898,
+      "share": 0.386503,
+      "gained": 2
     }
   ]
 }

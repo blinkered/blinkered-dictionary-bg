@@ -13,13 +13,27 @@ collection rather than reuse its record only has to put the file back where the 
 | collection | tokens | what it is | where it came from |
 | --- | ---: | --- | --- |
 | `wiki:bg` | 79,796,054 | Bulgarian Wikipedia; modern encyclopedic prose | [bgwiki.xml.bz2](https://dumps.wikimedia.org/bgwiki/latest/bgwiki-latest-pages-articles.xml.bz2) |
-| `ia` | 3,233,913 | Internet Archive Bulgarian books; literature, and the register a newspaper never reaches | [archive-bg](https://archive.org/search?query=mediatype%3Atexts+AND+%28language%3A%22Bulgarian%22+OR+language%3Abul%29) |
+| `ia` | 27,184,026 | Internet Archive Bulgarian books; literature, and the register a newspaper never reaches | [archive-bg](https://archive.org/search?query=mediatype%3Atexts+AND+%28language%3A%22Bulgarian%22+OR+language%3Abul%29) |
 | `lz:bul_newscrawl_2017_1M` | 2,363,882 | Leipzig bul_newscrawl_2017_1M; news and web, cited by the page each sentence came from | [bul_newscrawl_2017_1M](https://downloads.wortschatz-leipzig.de/corpora/bul_newscrawl_2017_1M.tar.gz) |
 | `wikisource:bg` | 2,098,752 | Bulgarian Wikisource; same Wikimedia family, so it corroborates rather than counts | [bgwikisource.xml.bz2](https://dumps.wikimedia.org/bgwikisource/latest/bgwikisource-latest-pages-articles.xml.bz2) |
+| `web:fakti.bg` | 956,984 |  | fetched from `fakti.bg`, recorded in `searched.tsv` |
 | `lz:bul_news_2022_1M` | 639,294 | Leipzig bul_news_2022_1M; news and web, cited by the page each sentence came from | [bul_news_2022_1M](https://downloads.wortschatz-leipzig.de/corpora/bul_news_2022_1M.tar.gz) |
+| `web:dnes.bg` | 615,481 |  | fetched from `dnes.bg`, recorded in `searched.tsv` |
+| `web:actualno.com` | 522,461 |  | fetched from `actualno.com`, recorded in `searched.tsv` |
 | `lz:bul_news_2020_1M` | 441,073 | Leipzig bul_news_2020_1M; news and web, cited by the page each sentence came from | [bul_news_2020_1M](https://downloads.wortschatz-leipzig.de/corpora/bul_news_2020_1M.tar.gz) |
+| `web:bta.bg` | 353,663 |  | fetched from `bta.bg`, recorded in `searched.tsv` |
+| `web:pik.bg` | 332,790 |  | fetched from `pik.bg`, recorded in `searched.tsv` |
+| `web:economic.bg` | 281,342 |  | fetched from `economic.bg`, recorded in `searched.tsv` |
+| `web:segabg.com` | 271,739 |  | fetched from `segabg.com`, recorded in `searched.tsv` |
+| `web:bnr.bg` | 202,322 |  | fetched from `bnr.bg`, recorded in `searched.tsv` |
+| `web:nova.bg` | 197,696 |  | fetched from `nova.bg`, recorded in `searched.tsv` |
+| `web:24chasa.bg` | 115,676 |  | fetched from `24chasa.bg`, recorded in `searched.tsv` |
 | `tat` | 98,683 | Tatoeba Bulgarian; contemporary and conversational | [bul_sentences.tsv](https://downloads.tatoeba.org/exports/per_language/bul/bul_sentences.tsv.bz2) |
+| `web:investor.bg` | 65,345 |  | fetched from `investor.bg`, recorded in `searched.tsv` |
 | `gut` | 48,923 | Project Gutenberg Bulgarian, 6 texts | [gutenberg-bg](https://www.gutenberg.org/cache/epub/feeds/pg_catalog.csv) |
+| `web:dir.bg` | 24,746 |  | fetched from `dir.bg`, recorded in `searched.tsv` |
+| `web:mediapool.bg` | 18,342 |  | fetched from `mediapool.bg`, recorded in `searched.tsv` |
+| `web:novini.bg` | 648 |  | fetched from `novini.bg`, recorded in `searched.tsv` |
 
 Totals are playable tokens after folding, not bytes. A collection missing from this table was
 never scanned; one present with no link was fetched by hand and its path is given instead.

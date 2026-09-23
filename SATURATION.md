@@ -8,9 +8,9 @@ the curve a careful builder would get, not the order this repository happens to 
 The first two families keep nothing, which is not padding — it is the shape of a rule that needs
 three independent sources.
 
-Candidates: 279,165. Shipped: 75,888.
+Candidates: 279,165. Shipped: 107,898.
 
-Of 5 families, **4 can be checked by fetching** —
+Of 19 families, **18 can be checked by fetching** —
 a stable identifier or a page we fetched ourselves. The other 1 are crawls
 somebody else made, whose locators record where they found the sentence; the document that holds
 it is their published corpus, not the web.
@@ -19,8 +19,22 @@ it is their published corpus, not the web.
 | --- | --- | --- | --- | --- |
 | 1 | `wikimedia` | 0 | 0.0% | — |
 | 2 | `internetarchive` | 0 | 0.0% | — |
-| 3 | `leipzig` | 73,235 | 26.2% | +73,235 |
-| 4 | `tatoeba` | 74,693 | 26.8% | +1,458 |
-| 5 | `gutenberg` | 75,888 | 27.2% | +1,195 |
+| 3 | `leipzig` | 96,752 | 34.7% | +96,752 |
+| 4 | `fakti.bg` | 100,422 | 36.0% | +3,670 |
+| 5 | `segabg.com` | 101,679 | 36.4% | +1,257 |
+| 6 | `gutenberg` | 102,799 | 36.8% | +1,120 |
+| 7 | `dnes.bg` | 103,821 | 37.2% | +1,022 |
+| 8 | `actualno.com` | 104,767 | 37.5% | +946 |
+| 9 | `tatoeba` | 105,520 | 37.8% | +753 |
+| 10 | `bnr.bg` | 106,223 | 38.1% | +703 |
+| 11 | `pik.bg` | 106,761 | 38.2% | +538 |
+| 12 | `economic.bg` | 107,134 | 38.4% | +373 |
+| 13 | `bta.bg` | 107,350 | 38.5% | +216 |
+| 14 | `24chasa.bg` | 107,524 | 38.5% | +174 |
+| 15 | `nova.bg` | 107,682 | 38.6% | +158 |
+| 16 | `dir.bg` | 107,771 | 38.6% | +89 |
+| 17 | `investor.bg` | 107,856 | 38.6% | +85 |
+| 18 | `mediapool.bg` | 107,896 | 38.6% | +40 |
+| 19 | `novini.bg` | 107,898 | 38.7% | +2 |
 
-**Diminishing returns from family 4** (`tatoeba`, +1,458), where a family first added less than a twentieth of what the best one did.
+**Diminishing returns from family 4** (`fakti.bg`, +3,670), where a family first added less than a twentieth of what the best one did.
